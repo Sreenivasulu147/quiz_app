@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Who was the first Prime Minister of independent India?",
+        "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Subhas Chandra Bose", "Sardar Patel"],
+        "answer": "Jawaharlal Nehru"
+    },
+    {
+        "question": "In which year did India gain independence?",
+        "options": ["1942", "1945", "1947", "1950"],
+        "answer": "1947"
+    },
+    {
+        "question": "Which Mughal emperor built the Taj Mahal?",
+        "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+        "answer": "Shah Jahan"
+    },
+    {
+        "question": "Who was the founder of the Maurya Empire?",
+        "options": ["Ashoka", "Bindusara", "Chandragupta Maurya", "Harshavardhana"],
+        "answer": "Chandragupta Maurya"
+    },
+    {
+        "question": "What was the capital of the Vijayanagara Empire?",
+        "options": ["Hampi", "Madurai", "Bijapur", "Hyderabad"],
+        "answer": "Hampi"
+    },
+    {
+        "question": "Who led the Salt March in 1930?",
+        "options": ["Bhagat Singh", "Jawaharlal Nehru", "Mahatma Gandhi", "Subhas Chandra Bose"],
+        "answer": "Mahatma Gandhi"
+    },
+    {
+        "question": "When was the Battle of Plassey fought?",
+        "options": ["1757", "1857", "1764", "1782"],
+        "answer": "1757"
+    },
+    {
+        "question": "Who was known as the 'Iron Man of India'?",
+        "options": ["B. R. Ambedkar", "Jawaharlal Nehru", "Lal Bahadur Shastri", "Sardar Vallabhbhai Patel"],
+        "answer": "Sardar Vallabhbhai Patel"
+    },
+    {
+        "question": "Which Indian leader gave the slogan 'Give me blood, and I shall give you freedom'?",
+        "options": ["Subhas Chandra Bose", "Mahatma Gandhi", "Bhagat Singh", "Lala Lajpat Rai"],
+        "answer": "Subhas Chandra Bose"
+    },
+    {
+        "question": "In which year was the Indian Constitution adopted?",
+        "options": ["1947", "1949", "1950", "1952"],
+        "answer": "1950"
+    },
+    {
+        "question": "Who was the last Governor-General of independent India?",
+        "options": ["Lord Mountbatten", "C. Rajagopalachari", "Dr. Rajendra Prasad", "Jawaharlal Nehru"],
+        "answer": "C. Rajagopalachari"
+    },
+    {
+        "question": "What was the main objective of the Non-Cooperation Movement?",
+        "options": ["Promoting industry", "Achieving complete independence", "Boycotting British goods", "Social reform"],
+        "answer": "Achieving complete independence"
+    },
+    {
+        "question": "Which Indian emperor embraced Buddhism after the Kalinga War?",
+        "options": ["Chandragupta Maurya", "Ashoka", "Harshavardhana", "Samudragupta"],
+        "answer": "Ashoka"
+    },
+    {
+        "question": "The Khilafat Movement was launched to support which cause?",
+        "options": ["British support in WWI", "Ottoman Caliphate", "Indian independence", "Quit India Movement"],
+        "answer": "Ottoman Caliphate"
+    },
+    {
+        "question": "Who wrote the book 'Discovery of India'?",
+        "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Dr. B. R. Ambedkar", "Rabindranath Tagore"],
+        "answer": "Jawaharlal Nehru"
+    },
+    {
+        "question": "Which act officially ended the East India Company rule in India?",
+        "options": ["Regulating Act", "Charter Act of 1833", "Government of India Act 1858", "Indian Councils Act"],
+        "answer": "Government of India Act 1858"
+    },
+    {
+        "question": "Which freedom fighter was executed at the age of 23?",
+        "options": ["Subhas Chandra Bose", "Sukhdev", "Bhagat Singh", "Rajguru"],
+        "answer": "Bhagat Singh"
+    },
+    {
+        "question": "The Jallianwala Bagh massacre took place in which city?",
+        "options": ["Delhi", "Amritsar", "Lahore", "Lucknow"],
+        "answer": "Amritsar"
+    },
+    {
+        "question": "Who was the first Indian woman to become President of the Indian National Congress?",
+        "options": ["Sarojini Naidu", "Annie Besant", "Indira Gandhi", "Vijaya Lakshmi Pandit"],
+        "answer": "Annie Besant"
+    },
+    {
+        "question": "Which movement began with the slogan 'Do or Die'?",
+        "options": ["Quit India Movement", "Civil Disobedience Movement", "Swadeshi Movement", "Non-Cooperation Movement"],
+        "answer": "Quit India Movement"
+    }
+]
